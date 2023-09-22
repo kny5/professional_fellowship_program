@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Professional Fellows Program for Economic Empowerment</title>
+    <link href="https://professional_fellowship_program/feed.xml" rel="self" />
+    <link href="https://professional_fellowship_program" />
+    <updated>2023-09-22T15:41:43+02:00</updated>
+    <author>
+        <name>Antonio Anaya</name>
+    </author>
+    <id>https://professional_fellowship_program</id>
+
+    <entry>
+        <title>PFP Documentation Week 1-3</title>
+        <author>
+            <name>Antonio Anaya</name>
+        </author>
+        <link href="https://professional_fellowship_program/pfp-documentation-week-1-3.html"/>
+        <id>https://professional_fellowship_program/pfp-documentation-week-1-3.html</id>
+
+        <updated>2023-09-22T15:41:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Introduction: The Professional Fellows Program is a fast paced internship, where fellows develop new skills and resources to help them empower their work back on their home countries. Data: Scrapping for relevant data to base the action plan is the first step for the program&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Introduction:<br><br>The Professional Fellows Program is a fast paced internship, where fellows develop new skills and resources to help them empower their work back on their home countries.
+  </p>
+
+  <p>
+    Data:<br><br>Scrapping for relevant data to base the action plan is the first step for the program deliverables writing.<br>
+  </p>
+
+  <p>
+    Keywords:<br><br>Anchor organisations.<br>Irregular immigration.<br>Mini grant.<br>Action plan.<br>Data collection.
+  </p>
+
+  <p>
+    Location:<br><br>Chiapas, State in Southern Mexico.<br>Tuxtla Gutierrez, the state capital.<br>Ocosingo, one of the decentralised education cities.<br>San Cristobal de las Casas, the cultural capital, place of divergent<br>
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p>
+    Stakeholders:<br><br>Chiapas State Agriculture Office<br>
+  </p>
+
+  <p>
+    Suggestions:<br>Action plan focus on diagnostic part.<br>Data analysis.<br>Content development.<br><br>Run surveys:<br>For industry,<br>Students<br>NGOs<br><br>
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

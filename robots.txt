@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://professional_fellowship_program/sitemap.xml
